@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ScrapyMobileSpider/.idea/ScrapyMobileSpider.iml" filepath="$PROJECT_DIR$/../ScrapyMobileSpider/.idea/ScrapyMobileSpider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scrapy.iml" filepath="$PROJECT_DIR$/.idea/scrapy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../OthersCodeOnGithub/Scrapy_project_scrapy_redis_project/scrapy-redis/.idea/scrapy-redis.iml" filepath="$PROJECT_DIR$/../../OthersCodeOnGithub/Scrapy_project_scrapy_redis_project/scrapy-redis/.idea/scrapy-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrapyEZTValldata/.idea/scrapyEZTValldata.iml" filepath="$PROJECT_DIR$/../scrapyEZTValldata/.idea/scrapyEZTValldata.iml" />
+    </modules>
+  </component>
+</project>

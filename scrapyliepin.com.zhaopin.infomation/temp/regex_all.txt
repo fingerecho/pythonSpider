@@ -1,0 +1,17 @@
+<h3 title="招聘57758 Linux内核资深专家">[.\n] <a href="https://www.liepin.com/a/9211650.shtml" data-promid="imscid=R000000075&ckid=c3ba30ff63805f77&headckid=c3ba30ff63805f77&pageNo=1&pageIdx39&totalIdx=79&sup=1" target="_blank"[.\n] 	onclick="tlog=window.tlog||[];tlog.push('c:w_sojob_jobclick_9')">[.\n] 	57758 Linux内核资深专家 </a>[.\n] [.\n].*?</h3>[.\n].*?<p class="condition clearfix"[.\n] title="80-110万_北京,杭州,美国_本科或以上_5年工作经验">[.\n] <span class="text-warning">80-110万</span>[.\n] <a href="https://www.liepin.com/bj/"[.\n].*?data-selector="data-url" class="area">北京,杭州,美国</a>[.\n] <span class="edu">本科或以上</span>[.\n].*?<span>5年工作经验</span>[.\n].*?</p>[.\n].*?<p class="time-info clearfix">[.\n].*?<time>5小时前</time>[.\n].*?[.\n].*?[.\n].*?[.\n].*?</p>
+
+
+<h3 title="(.*?)">[.\n] <a href="https:\/\/www.liepin.com\/a\/9211650.shtml" data-promid="imscid=R000000075&ckid=c3ba30ff63805f77&headckid=c3ba30ff63805f77&pageNo=1&pageIdx39&totalIdx=79&sup=1" target="_blank"[.\n] 	onclick="tlog=window.tlog||[];tlog.push('c:w_sojob_jobclick_9')">[.\n](.*?) <\/a>[.\n] [.\n].*?<\/h3>[.\n].*?<p class="condition clearfix"[.\n] title="(.*?)">[.\n] <span class="text-warning">(.*?)<\/span>[.\n] <a href="https:\/\/www.liepin.com\/bj\/"[.\n].*?data-selector="data-url" class="area">北京,杭州,美国<\/a>[.\n] <span class="edu">本科或以上<\/span>[.\n].*?<span>5年工作经验<\/span>[.\n].*?<\/p>[.\n].*?<p class="time-info clearfix">[.\n].*?<time>5小时前<\/time>[.\n].*?[.\n].*?[.\n].*?[.\n].*?<\/p>
+
+
+<div class="job-info">[.\n].*<h..title="(.*?)">[.\n].*<a.href="(.*?)"[.\n].*[.\n].*(.*?)<\/a>.*[.\n].*[.\n].*[.\n].*[.\n].*title="(.*?)">[.\n].*".(.*?)<\/span>[.\n].*[.\n].*"*area*"*>(.*?)<\/a>[.\n].*"edu">?(.*?)<\/span>[.\n].*>(.*?)<\/span>[.\n].*[.\n].*[.\n]*.*>(.*?)<\/time>
+
+
+result:
+<div class="job-info">[.\n].*<h..title="(.*?)">
+[.\n].*<a.href="(.*?)"[.\n].*[.\n].*(.*?)
+<\/a>.*[.\n].*[.\n].*[.\n].*[.\n].*title="(.*?)">
+[.\n].*".(.*?)<\/span>[.\n].*[.\n].*"*area*"*>(.*?)<\/a>
+[.\n].*"edu">?(.*?)<\/span>
+[.\n].*>(.*?)<\/span>
+[.\n].*[.\n].*[.\n]*.*>(.*?)<\/time>
